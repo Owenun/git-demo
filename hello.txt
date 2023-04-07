@@ -1,6 +1,5 @@
-:	
 hello world
 hello world
 hell hello python 
-life is short, I love Python
+
 
